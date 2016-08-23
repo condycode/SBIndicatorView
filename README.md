@@ -1,0 +1,2 @@
+# SBIndicatorView
+使用CAReplicatorLayer和CAShapeLayer制作的简单实用的loading控件。
